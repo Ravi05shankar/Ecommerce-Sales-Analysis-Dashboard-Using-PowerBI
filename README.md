@@ -1,2 +1,2 @@
 # Ecommerce-Sales-Analysis-Dashboard-Using-PowerBI
-[TIWARI ECOMMERCE SALES DASHBOARD.pdf](https://github.com/Ravi05shankar/Ecommerce-Sales-Analysis-Dashboard-Using-PowerBI/files/12159018/TIWARI.ECOMMERCE.SALES.DASHBOARD.pdf)
+file:///C:/Users/tiwar/OneDrive/Desktop/Project/data%20analyst%20project/powerBi%20Project/Tiwari%20Store/TIWARI%20ECOMMERCE%20SALES%20DASHBOARD.pdf
